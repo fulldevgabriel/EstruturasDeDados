@@ -13,14 +13,11 @@ Este repositório contém implementações de **estruturas de dados** em **Pytho
 ```
 EstruturasDeDados/
 ├── ListasEncadeadas/
-│   ├── __init__.py
 │   ├── node.py
 │   └── lista_simples.py
 ├── ListasOrdenadas/
-│   ├── __init__.py
 │   └── lista_ordenada.py
 ├── ArvoresBinarias/
-│   ├── __init__.py
 │   └── arvore_binaria.py
 ├── main.py
 └── README.md
