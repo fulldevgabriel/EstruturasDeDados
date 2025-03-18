@@ -1,6 +1,18 @@
-# EstruturasDeDados
+<h1 align="center"> 
+   Estruturas De Dados I
+</h1>
 
 Este repositório contém implementações de **estruturas de dados** em **Python**, incluindo Listas Encadeadas, Listas Ordenadas e Árvores Binárias. O projeto foi criado para facilitar o aprendizado prático dessas estruturas, demonstrando sua aplicação em contextos reais, como no desenvolvimento de jogos.
+
+## Contribuidores 
+###### (este trabalho foi realizado em dupla)
+
+* Gabriel Ribeiro de Carvalho
+* RGM: 38765632
+
+---
+* Brayan Aragão Pletsch
+* RGM: 38473585
 
 ## Objetivos do Projeto
 
